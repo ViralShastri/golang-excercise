@@ -4,7 +4,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/golang-excercise/sec02/lec11/db"
+	"github.com/ViralShastri/golang-excercise/sec02/lec11/db"
 )
 
 /* GIVEN - The functions:

@@ -4,8 +4,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/golang-excercise/shared/cal"
-	"github.com/golang-excercise/shared/input"
+	"github.com/ViralShastri/golang-excercise/shared/cal"
+	"github.com/ViralShastri/golang-excercise/shared/input"
 )
 
 func main() {

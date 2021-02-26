@@ -1,4 +1,4 @@
-module github.com/golang-excercise
+module github.com/ViralShastri/golang-excercise
 
 go 1.16
 
@@ -8,5 +8,4 @@ require (
 	github.com/mgutz/logxi v0.0.0-20161027140823-aebf8a7d67ab
 	github.com/sirupsen/logrus v1.8.0
 	github.com/striversity/glft v0.0.0-20181217140640-b338f1fb11d5
-
 )

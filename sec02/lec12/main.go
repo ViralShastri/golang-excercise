@@ -4,8 +4,8 @@ package main
 import (
 	"fmt"
 
-	_ "github.com/golang-excercise/sec02/lec12/logger"
-	_ "github.com/golang-excercise/sec02/lec12/math"
+	_ "github.com/ViralShastri/golang-excercise/sec02/lec12/logger"
+	_ "github.com/ViralShastri/golang-excercise/sec02/lec12/math"
 	log1 "github.com/sirupsen/logrus"
 )
 

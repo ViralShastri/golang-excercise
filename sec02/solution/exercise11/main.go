@@ -4,7 +4,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/golang-excercise/sec02/solution/exercise11/sa"
+	"github.com/ViralShastri/golang-excercise/sec02/solution/exercise11/sa"
 )
 
 func main() {
